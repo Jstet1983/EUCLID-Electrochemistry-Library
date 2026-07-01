@@ -1,0 +1,9 @@
+name: EUCLID Electrochemistry Library
+version: 0.1.0
+status: development
+focus:
+  - Electrochemistry
+  - Electrocatalysis
+  - Electrode Materials
+  - Reaction Mechanisms
+  - Molecular Manufacturing
